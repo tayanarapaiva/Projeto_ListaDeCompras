@@ -5,3 +5,14 @@ A figura a seguir mostra a tela "login" do programa. Nessa tela, o usuario deve 
 
 ![](figurinhas/_login.PNG)
 
+## Iniciando nova lista
+
+Após fazer o login, o usuario vai abrir uma janela que oferece um pushbutton para iniciar uma nova lisa.
+
+![](figurinhas/bem_vindo.PNG)
+
+## Inserindo os dados na tabela
+
+Ao abrir uma nova lista de compras, o usuario deve inserir as informações necessárias no cmapo do "produto","valor" e "quantidade". Simultaneamente os dados serão inseridos na tabela.
+
+

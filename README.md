@@ -18,24 +18,31 @@ Ao abrir uma nova lista de compras, o usuario deve inserir as informações nece
 
 ## Modificando os valores da tabela
 
-Nessa perspectiva, para editar os dados basta clicar duas vezes no local da tabela que vai ser alterado, assim, vai aparecer um QMessageBox perguntando o novo preenchimento do campo e uma linha para digitar. Assim que as novas informações forem inseridas, o usuario de clicar em "ok"e no botão de ordenar para ter a nova tabela editada.
+Nessa perspectiva, para editar os dados basta clicar duas vezes no local da tabela que vai ser alterado, vai aparecer um QMessageBox perguntando o novo preenchimento do campo e uma linha para digitar. Assim que as novas informações forem inseridas, o usuario deve clicar em "ok" e no botão de ordenar para ter a nova tabela editada.
 
 ![](figurinhas/editar.png)
 
 
 ##  Estatísticas
 
-Ao clicar na aba "estatística" o usuario vai ter acesso ao valor total da compra efetuada e o preço do produto mais caro e mais barato catalogado na compra.
+Ao clicar na aba "estatística" o usuário vai ter acesso ao valor total da compra efetuada e o preço do produto mais caro e mais barato catalogado na compra.
 
 ![](figurinhas/estatisticas.png)
 
 ## Utilizando o arquivo
 
-Para finalizar, o usuario deve acessar a aba "arquivo" e selecionar entre os botões "salvar" e "carregar", para respectiamente, salvar em um arquivo o programa feito e carregar um arquivo. Além disso, a janela dispõe de um pushbutton para fechar o programa, configurado para perguntar se o usuario deseja salvar os dados ou encerrar o programa.
+Para finalizar, o usuario deve acessar a aba "arquivo" e selecionar entre os botões "salvar" e "carregar", para respectiamente, salvar em um arquivo (a ser escolhido) o programa feito e carregar um arquivo. Além disso, a janela dispõe de um pushbutton para fechar o programa, configurado para perguntar se o usuario deseja salvar os dados ou encerrar o programa.
 
 ![](figurinhas/arquivo.png)
 
-![](figurinhas/savar_e_carregar.png)
+escolhendo o local do arquivo:
+
+
+![](figurinhas/salvar_e_carregar.png)
+
+
+
+## Fim.
 
 
 
